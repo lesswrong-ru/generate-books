@@ -24,3 +24,4 @@ s#</div>##g
 s#</div></div></div></div>##
 #s#</html>#\</section\>#
 /class="section-1"/ d
+/class="breadcrumb"/ d
