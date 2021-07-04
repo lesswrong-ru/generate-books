@@ -48,6 +48,12 @@
           s$https://lesswrong.ru/node/564$#nid-564$g    
           s$https://lesswrong.ru/node/570$#nid-570$g    
           s$https://lesswrong.ru/node/627$#nid-627$g    
+          s$https://lesswrong.ru/node/632$#nid-632$g    
+          s$https://lesswrong.ru/node/639$#nid-639$g    
+          s$https://lesswrong.ru/node/643$#nid-643$g    
+          s$https://lesswrong.ru/node/650$#nid-650$g    
+          s$https://lesswrong.ru/node/651$#nid-651$g    
+          s$https://lesswrong.ru/node/652$#nid-652$g    
           s$https://lesswrong.ru/w/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B_%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C%D1%81%D1%8F$#nid-9$g    
           s$https://lesswrong.ru/w/%D0%92%D0%B5%D1%80%D0%B0_%D0%B2_%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F$#nid-10$g    
           s$https://lesswrong.ru/w/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B7%D1%8E%D0%B4%D0%BE$#nid-16$g    
@@ -128,7 +134,7 @@
           s$https://lesswrong.ru/w/%D0%9F%D1%8B%D1%82%D0%B0%D1%8F%D1%81%D1%8C_%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D1%8C%D1%81%D1%8F$#nid-106$g    
           s$https://lesswrong.ru/w/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9_%D0%B2%D1%82%D0%BE%D1%80%D1%83%D1%8E_%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D0%BA%D1%83_%D0%9B%D1%8E%D0%BA$#nid-107$g    
           s$https://lesswrong.ru/w/%D0%90%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%8D%D0%B2%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0$#nid-108$g    
-          s$https://lesswrong.ru/w/%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BA_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5_%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B9_%D1%88%D0%BE%D0%BF%D0%BF%D0%B8%D0%BD%D0%B3_%D0%B2_%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5$#nid-110$g    
+          s$https://lesswrong.ru/w/%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BA_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5_%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B9_%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%88%D0%BE%D0%BF%D0%BF%D0%B8%D0%BD%D0%B3$#nid-110$g    
           s$https://lesswrong.ru/w/%D0%9D%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%88%D0%BA%D0%B0%D0%BB%D1%8B_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D1%81%D1%8F%D0%B6%D0%BD%D1%8B%D1%85_%D0%B8_%D1%84%D1%83%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC$#nid-112$g    
           s$https://lesswrong.ru/w/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%BE%D1%80%D0%B5%D0%BE%D0%BB%D0%B0$#nid-113$g    
           s$https://lesswrong.ru/w/%D0%98%D1%81%D0%BA%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D1%8F$#nid-114$g    
@@ -207,7 +213,7 @@
           s$https://lesswrong.ru/w/%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE$#nid-198$g    
           s$https://lesswrong.ru/w/%D0%A0%D0%B5%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC$#nid-199$g    
           s$https://lesswrong.ru/w/%D0%94%D0%B2%D0%BE%D0%B5%D0%BC%D1%8B%D1%81%D0%BB%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%8F_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B8%D1%81%D0%BA%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC$#nid-200$g    
-          s$https://lesswrong.ru/w/%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F$#nid-201$g    
+          s$https://lesswrong.ru/w/%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5$#nid-201$g    
           s$https://lesswrong.ru/w/%D0%9B%D0%B6%D0%B5%D1%80%D0%B5%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC$#nid-202$g    
           s$https://lesswrong.ru/w/%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D1%81%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B$#nid-203$g    
           s$https://lesswrong.ru/w/%D0%92%D0%BD%D0%B5_%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B8$#nid-204$g    
@@ -421,3 +427,22 @@
           s$https://lesswrong.ru/w/%D0%A6%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%B8%D1%8F$#nid-624$g    
           s$https://lesswrong.ru/w/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_%D0%B3%D0%B5%D1%80%D0%BE%D1%8F$#nid-625$g    
           s$https://lesswrong.ru/w/%D0%9F%D1%80%D0%BE%D1%80%D1%8B%D0%B2_%D0%B2_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D1%85_%D0%BC%D0%BE%D0%B7%D0%B3%D0%B0_%D0%9E%D0%BD_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82_%D0%B8%D0%B7_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BE%D0%B2$#nid-626$g    
+          s$https://lesswrong.ru/w/%D0%97%D0%B0%D0%BC%D0%B5%D1%87%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE_%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8$#nid-628$g    
+          s$https://lesswrong.ru/w/%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8$#nid-629$g    
+          s$https://lesswrong.ru/w/%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B7%D0%BE%D0%BC%D0%B1%D0%B8_%D0%B8_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0$#nid-630$g    
+          s$https://lesswrong.ru/w/%D0%9F%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B5%D0%B2%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C$#nid-631$g    
+          s$https://lesswrong.ru/w/%D0%9D%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B8%D1%88%D1%8C_%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D1%8F$#nid-633$g    
+          s$https://lesswrong.ru/w/%D0%A4%D0%B0%D0%BB%D1%8C%D1%88%D0%B8%D0%B2%D1%8B%D0%B9_%D1%8D%D0%B3%D0%BE%D0%B8%D0%B7%D0%BC$#nid-634$g    
+          s$https://lesswrong.ru/w/%D0%9D%D1%83%D0%B6%D0%BD%D0%BE_%D1%81%D0%B5%D1%80%D1%8C%D1%91%D0%B7%D0%BD%D0%BE_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C%D1%81%D1%8F_%D0%BA_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B8%D1%80%D1%83%D1%81%D0%BD%D0%BE%D0%B9_%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5$#nid-635$g    
+          s$https://lesswrong.ru/w/COVID-19_%D0%BC%D0%BE%D1%8F_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C$#nid-636$g    
+          s$https://lesswrong.ru/w/%D0%A4%D0%B0%D0%BB%D1%8C%D1%88%D0%B8%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C$#nid-637$g    
+          s$https://lesswrong.ru/w/%D0%9F%D0%BE%D1%81%D1%82_%D0%A0%D0%BE%D0%B1%D0%B0_%D0%91%D0%B5%D0%BD%D1%81%D0%B8%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0_%D0%BE_%D0%9A%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5-19$#nid-638$g    
+          s$https://lesswrong.ru/w/%D0%9F%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8$#nid-640$g    
+          s$https://lesswrong.ru/w/%D0%A4%D0%B0%D0%BB%D1%8C%D1%88%D0%B8%D0%B2%D1%8B%D0%B5_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D0%B8$#nid-641$g    
+          s$https://lesswrong.ru/w/%D0%9D%D0%B0%D0%B3%D0%BB%D1%8F%D0%B4%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D1%8B_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0$#nid-642$g    
+          s$https://lesswrong.ru/w/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F$#nid-644$g    
+          s$https://lesswrong.ru/w/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D0%BD$#nid-645$g    
+          s$https://lesswrong.ru/w/%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0_%D0%B2%D1%8B%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D1%8B%D1%87%D0%B0%D0%B3%D0%B0$#nid-646$g    
+          s$https://lesswrong.ru/w/%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5_%D1%88%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%91%D0%BD%D0%BE%D0%BA$#nid-648$g    
+          s$https://lesswrong.ru/w/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE_%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%B5%D1%81%D0%BB%D0%B8_%D0%BE%D1%82_%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BD%D0%B5%D0%BB%D1%8C%D0%B7%D1%8F_%D0%B8%D0%B7%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F$#nid-653$g    
+          s$https://lesswrong.ru/w/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%D0%BC_%D1%8D%D0%BC%D0%BF%D0%B0%D1%82%D0%B8%D0%B8_%D0%B8_%D1%83%D0%B2%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F$#nid-654$g    
